@@ -1,0 +1,6 @@
+# Compiled classes
+*.class
+
+# Intellij IDEA files 
+.idea/
+*.iml
